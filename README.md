@@ -1,13 +1,13 @@
 # Employee_Tracker_System_OOPS
 
-A simple **Object-Oriented Java application** that demonstrates the implementation of an employee payroll system.  
+A simple **Object-Oriented Java application** that demonstrates the implementation of an employee tracker system.  
 The system supports **Full-Time and Part-Time employees** and calculates their salaries using **polymorphism and abstraction**.
 
 ---
 
 ## 📌 Features
 
-- Add employees to the payroll system
+- Add employees to the tracker system
 - Remove employees by ID
 - Display employee details
 - Calculate salaries dynamically using polymorphism
@@ -40,7 +40,7 @@ Uses `ArrayList` to store and manage employees.
 
 ## 🏗 Project Structure
 ```bash
-Employee Payroll System
+Employee Tracker System
 │
 ├── Employee (Abstract Class)
 │ ├── name
